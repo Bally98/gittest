@@ -28,23 +28,26 @@ hr {
     margin-bottom: -10px;
 }
 .card1{
-    
+    padding: 1px 15px 5px 15px;
+    background-color: rgba(73, 75, 69, 0.350);
+    margin: 10px 10px 10px 0px;
     border-radius: 5px;
-    margin-top: -10px;
 }
 .card2 {
-
-   
+    padding: 1px 15px 5px 15px;
+    background-color: rgba(73, 75, 69, 0.300);
+    margin: 10px 10px 10px 0px;
     border-radius: 5px;
-    margin-top: -10px;
 }
 .card3 {
-
+    padding: 1px 15px 25px 15px;
+    background-color: rgba(73, 75, 69, 0.250);
+    margin: 10px 10px 10px 0px;
     border-radius: 5px;
-    margin-top: -10px;
 }
 .card4 {
-  ;
+    padding: 1px 15px 25px 15px;
+    background-color: rgba(73, 75, 69, 0.200);
+    margin: 10px 10px 10px 0px;
     border-radius: 5px;
-    margin-top: -10px;
 }
